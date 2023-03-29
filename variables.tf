@@ -13,7 +13,7 @@ variable "username" {
 }
 variable "password" {
   description = "the password of user"
-  default     = "1Dc9K2@spfbP"
+  default     = "***********"
 
 }
 variable "namecontainer" {
